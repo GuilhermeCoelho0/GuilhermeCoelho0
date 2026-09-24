@@ -46,8 +46,8 @@ goal:     Construir uma base sólida como
   <a href="mailto:guilherme.cstop@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-guilherme.cstop-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Zer0coelho?tab=followers">
-    <img src="https://img.shields.io/github/followers/Zer0coelho?label=Seguidores&style=flat-square&logo=github&color=6e40c9&logoColor=white"/>
+  <a href="https://github.com/GuilhermeCoelho0?tab=followers">
+    <img src="https://img.shields.io/github/followers/GuilhermeCoelho0?label=Seguidores&style=flat-square&logo=github&color=6e40c9&logoColor=white"/>
   </a>
 </p>
 
@@ -125,16 +125,16 @@ goal:     Construir uma base sólida como
 <p align="center">
   <img
     height="175"
-    src="https://github-readme-stats.vercel.app/api?username=Zer0coelho&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeCoelho0&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br&hide_border=true"
   />
   <img
     height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0coelho&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCoelho0&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true"
   />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zer0coelho&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCoelho0&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
