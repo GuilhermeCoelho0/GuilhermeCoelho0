@@ -17,7 +17,7 @@
 ```yaml
 name:     Guilherme Coelho
 age:      20
-degree:   Ciência da Computação · 3º período
+degree:   Ciência da Computação · 4º período
 focus:
   - Inteligência Artificial
   - Desenvolvimento de Projetos
